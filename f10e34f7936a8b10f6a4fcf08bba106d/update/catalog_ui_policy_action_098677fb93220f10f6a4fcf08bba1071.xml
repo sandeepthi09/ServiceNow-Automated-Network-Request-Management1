@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Network Service Request">3d6c9977936e8b10f6a4fcf08bba10d8</catalog_item>
+        <catalog_variable>IO:8db7a17f93ae8b10f6a4fcf08bba101c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-14 05:25:54</sys_created_on>
+        <sys_id>098677fb93220f10f6a4fcf08bba1071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_specify_device_details_if_others</sys_name>
+        <sys_package display_value="Network Service Request Hub" source="x_2034419_networ_0">f10e34f7936a8b10f6a4fcf08bba106d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Network Service Request Hub">f10e34f7936a8b10f6a4fcf08bba106d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_098677fb93220f10f6a4fcf08bba1071</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-14 05:25:54</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show Device Details when Device Type is Others">c675737b93220f10f6a4fcf08bba10e9</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>please_specify_device_details_if_others</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=098677fb93220f10f6a4fcf08bba1071"/>
+</record_update>

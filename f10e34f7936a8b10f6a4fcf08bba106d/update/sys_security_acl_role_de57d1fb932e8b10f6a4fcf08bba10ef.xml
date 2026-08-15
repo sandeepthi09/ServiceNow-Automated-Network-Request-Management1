@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-13 17:48:06</sys_created_on>
+        <sys_id>de57d1fb932e8b10f6a4fcf08bba10ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2034419_networ_0_network_fulfillment_task.x_2034419_networ_0.network_fulfillment_task_user</sys_name>
+        <sys_package display_value="Network Service Request Hub" source="x_2034419_networ_0">f10e34f7936a8b10f6a4fcf08bba106d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Network Service Request Hub">f10e34f7936a8b10f6a4fcf08bba106d</sys_scope>
+        <sys_security_acl display_value="x_2034419_networ_0_network_fulfillment_task">c657d1fb932e8b10f6a4fcf08bba10ea</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_de57d1fb932e8b10f6a4fcf08bba10ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-13 17:48:06</sys_updated_on>
+        <sys_user_role display_value="x_2034419_networ_0.network_fulfillment_task_user" name="x_2034419_networ_0.network_fulfillment_task_user">3957d1fb932e8b10f6a4fcf08bba1023</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

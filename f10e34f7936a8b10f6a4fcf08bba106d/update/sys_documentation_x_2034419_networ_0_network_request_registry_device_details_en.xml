@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="device_details" label="Device Details" language="en" table="x_2034419_networ_0_network_request_registry">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>device_details</element>
+            <help/>
+            <hint/>
+            <label>Device Details</label>
+            <language>en</language>
+            <name>x_2034419_networ_0_network_request_registry</name>
+            <plural>Device Details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 16:33:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Device Details</sys_name>
+            <sys_package display_value="Network Service Request Hub" source="x_2034419_networ_0">f10e34f7936a8b10f6a4fcf08bba106d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Network Service Request Hub">f10e34f7936a8b10f6a4fcf08bba106d</sys_scope>
+            <sys_update_name>sys_documentation_x_2034419_networ_0_network_request_registry_device_details_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 16:33:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
