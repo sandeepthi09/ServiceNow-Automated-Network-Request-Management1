@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="97c7d13f932e8b10f6a4fcf08bba1023" sys_domain="global" table="x_2034419_networ_0_network_fulfillment_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>7f5bd5f3936e8b10f6a4fcf08bba10e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>database_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>3b5bd5f3936e8b10f6a4fcf08bba10ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>f35bd5f3936e8b10f6a4fcf08bba10eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>bf5bd5f3936e8b10f6a4fcf08bba10eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>7b5bd5f3936e8b10f6a4fcf08bba10ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_number</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>375bd5f3936e8b10f6a4fcf08bba10ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>ff5bd5f3936e8b10f6a4fcf08bba10ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>bb5bd5f3936e8b10f6a4fcf08bba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_address</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>775bd5f3936e8b10f6a4fcf08bba10ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_approval_status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>335bd5f3936e8b10f6a4fcf08bba10f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_work_status</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>fb5bd5f3936e8b10f6a4fcf08bba10f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_device_type</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 18:05:41</sys_created_on>
+            <sys_id>b75bd5f3936e8b10f6a4fcf08bba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2034419_networ_0_network_fulfillment_task" sys_domain="global" view="Default view">97c7d13f932e8b10f6a4fcf08bba1023</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2034419_networ_0_network_fulfillment_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-08-13 17:50:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97c7d13f932e8b10f6a4fcf08bba1023</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2034419_networ_0_network_fulfillment_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Network Service Request Hub" source="x_2034419_networ_0">f10e34f7936a8b10f6a4fcf08bba106d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Network Service Request Hub">f10e34f7936a8b10f6a4fcf08bba106d</sys_scope>
+            <sys_update_name>sys_ui_section_97c7d13f932e8b10f6a4fcf08bba1023</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-08-13 17:50:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
